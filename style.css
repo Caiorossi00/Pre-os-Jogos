@@ -1,0 +1,15 @@
+  @import url('https://fonts.googleapis.com/css2?family=Lora&family=Poppins&family=Roboto:wght@100&display=swap');
+
+* {
+    font-family: "lora";
+    align-items: center;
+    text-align: center;
+}
+
+img {
+    height: 15em;
+}
+
+#vitrine {
+    margin-top: 4em;
+}
