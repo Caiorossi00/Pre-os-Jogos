@@ -13,3 +13,7 @@ img {
 #vitrine {
     margin-top: 4em;
 }
+
+.comprado {
+    filter: grayscale(100%);
+  }
